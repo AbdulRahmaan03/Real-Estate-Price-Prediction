@@ -1,6 +1,8 @@
 # Real-Estate-Price-Prediction
 - This project aims to predict house prices based on their features such as location, size, bathrooms, balcony, and area type in Bengaluru.
-- Different models such as linear regression, lasso, and decision trees have been tested and GridSearchCV has been applied to find the best model with their respective hyperparameters. 
+- Different models such as linear regression, lasso, and decision trees have been tested and GridSearchCV has been applied to find the best model with their respective hyperparameters.
+### GUI
+![Screenshot 2023-09-03 223907](https://github.com/AbdulRahmaan03/Real-Estate-Price-Prediction/assets/100038013/536de4ec-052b-4ef3-ad43-0fcd8e1fac79)
 ### Dataset Used
 [Bengaluru House Price Data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 ### Python Frameworks
